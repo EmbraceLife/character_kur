@@ -1,1 +1,1 @@
-# playdl
+# experiment RNN with kur
